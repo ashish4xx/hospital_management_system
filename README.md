@@ -1,6 +1,6 @@
 File Name: Hotem Management System.
 Description: 
-This C++ program represents a simplified hospital management system with multiple departments where patients can be added, managed, and listed. The program allows the user to perform various operations based on the chosen department, such as adding normal or critically ill patients, taking patients to a doctor, and displaying the list of patients.
+This C++ program represents a simplified hospital management system utilizes Object-Oriented Programming (OOP) concepts with multiple departments where patients can be added, managed, and listed. The program allows the user to perform various operations based on the chosen department, such as adding normal or critically ill patients, taking patients to a doctor, and displaying the list of patients.
 
 The program begins by defining a structure `patient` that holds information about patients, such as their first name, last name, age, blood group, gender, mobile number, and a pointer to the next patient. The program also includes a class `linkedqueue` that represents a linked list-based queue of patients. Each department is represented by an instance of the `linkedqueue` class.
 
