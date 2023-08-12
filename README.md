@@ -6,7 +6,7 @@ The program begins by defining a structure `patient` that holds information abou
 
 The main parts of the program are as follows:
 
-1. Input and Patient Creation (`input` function):
+1. **Input and Patient Creation (`input` function):**
 The `input` function allows the user to input patient data. It validates the blood group input using a loop and conditional statements to ensure that only valid blood groups are accepted. If a blood group is invalid, the program informs the user and prompts them to enter the blood group again. After validating the blood group, the function collects other patient information.
 
 2. **Adding Patients (`insertatbeg`, `insertatend` functions):**
